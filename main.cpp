@@ -46,12 +46,16 @@ int main() {
     list1.list();
      */
     Stack stack1;
+    if (stack1.empty())
+        cout << "Stack is empty" << endl;
+    else
+        cout << "Stack is not empty" << endl;
     stack1.push(2);
     stack1.push(3);
     stack1.push(6);
     stack1.pop();
-    cout << stack1.top() << endl;
-    cout << stack1.average() << endl;
+    cout << "The top of the stack is " << stack1.top() << endl;
+    cout << "The average is: " << stack1.average() << endl;
     //stack1.print_stack();
 
     return 0;

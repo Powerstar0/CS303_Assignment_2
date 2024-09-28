@@ -1,6 +1,6 @@
 ### ***How to Run***
 
-Note: As it is not requires, error / user validation is not present for much of the code.
+Note: As it is not required, error / user validation is not present for much of the code.
 
 1) Choose to test Single Linked List or Vector Stack
    

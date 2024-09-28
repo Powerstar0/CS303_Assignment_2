@@ -1,5 +1,7 @@
 ### ***How to Run***
 
+Note: As it is not requires, error / user validation is not present for much of the code.
+
 1) Choose to test Single Linked List or Vector Stack
    
 ![image](https://github.com/user-attachments/assets/5e3e0790-235f-40df-b0fc-11d217ef733f)

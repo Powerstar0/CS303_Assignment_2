@@ -25,12 +25,6 @@ bool Stack::empty() const {
     return container.empty();
 }
 
-void Stack::print_stack() {
-    for (auto i : container) {
-        std::cout << i << std::endl;
-    }
-}
-
 float Stack::average() {
     // Returns the average of the values in stack
     float sum = 0;
@@ -43,3 +37,11 @@ float Stack::average() {
     // Divides to find average
     return sum / counter;
 }
+
+/*
+void Stack::print_stack() {
+    for (auto i : container) {
+        std::cout << i << std::endl;
+    }
+}
+*/

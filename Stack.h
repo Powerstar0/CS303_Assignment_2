@@ -19,9 +19,9 @@ public:
     void pop();
     // Checks to see if stack is empty
     bool empty() const;
-    void print_stack();
     // Calculates the average of values in the stack
     float average();
+    //void print_stack();
 };
 
 

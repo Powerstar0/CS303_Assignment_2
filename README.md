@@ -78,6 +78,21 @@
 
 3) Remove removes top value from stack
 
+![image](https://github.com/user-attachments/assets/65eed228-e825-4df1-b69d-02989f04916a)
+
+4) Top returns the top value of the stack (Ex. Stack of 30, 20, 10)
+
+![image](https://github.com/user-attachments/assets/7468d7bb-3e5a-4b94-99b7-12137fafeb3d)
+
+5) Get the average of all values in the stack (Ex. Stack of 30, 20, 10)
+
+![image](https://github.com/user-attachments/assets/7262c2d3-7dc6-4bed-bbf1-7f6f076d3ca1)
+
+6) Exit exits
+
+![image](https://github.com/user-attachments/assets/03cee840-e9ed-4054-95eb-2e17209c43a8)
+
+
 
 
 
